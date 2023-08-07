@@ -41,3 +41,8 @@ The packages required to run are:
 
 A database will need to be created first then seeded with data. 
 
+<img src="Screenshot (40).png" alt="Deployement">
+<img src="Screenshot (41).png" alt="Deployement">
+<img src="Screenshot (42).png" alt="Deployement">
+<img src="Screenshot (43).png" alt="Deployement">
+<img src="Screenshot (44).png" alt="Deployement">
